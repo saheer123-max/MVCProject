@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|solutionrelative:mvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CEF53A7-7259-4EDA-B309-1603D8F3E7F7}|MVC\\MVC.csproj|c:\\users\\hp\\source\\repos\\mvc\\mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,33 +50,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "MVC\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T06:04:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T05:53:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "MVC\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\LoginController.cs",
               "RelativeToolTip": "MVC\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:22:23.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Program.cs",
               "RelativeDocumentMoniker": "MVC\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Program.cs",
               "RelativeToolTip": "MVC\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:14:06.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "MVC\\Controllers\\MainController.cs",
@@ -76,12 +110,11 @@
               "RelativeToolTip": "MVC\\Controllers\\MainController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T09:10:01.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T09:10:01.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\.gitignore",
               "RelativeDocumentMoniker": "MVC\\.gitignore",
@@ -94,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MVC\\Models\\ErrorViewModel.cs",
@@ -102,8 +135,7 @@
               "RelativeToolTip": "MVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T07:45:04.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T07:45:04.42Z"
             }
           ]
         }

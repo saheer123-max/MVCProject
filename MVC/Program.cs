@@ -17,12 +17,11 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-app.MapControllers();
+
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "Profile",
-    pattern: "profile/{username?}",
-    defaults: new { controller = "User", action = "Profile" });
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

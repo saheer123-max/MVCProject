@@ -1,14 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using MVC.Models;
 namespace MVC.Controllers
 {
     public class UserController : Controller
     {
-        public IActionResult Profile(string Username)
-        {
+     
 
-            ViewBag.Name = Username;
-            return View();
+        public IActionResult Profile()
+        {
+            Student student = new Student()
+            {
+                Id = 1,
+                Name = "saheer",
+                Age = 18
+
+            };
+
+            return View(student);
+
+
         }
+
+
     }
 }

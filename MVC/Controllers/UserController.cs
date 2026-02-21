@@ -11,7 +11,7 @@ namespace MVC.Controllers
             Student student = new Student()
             {
                 Id = 1,
-                Name = "saheer",
+                Name = "saheeraslam",
                 Age = 18
 
             };

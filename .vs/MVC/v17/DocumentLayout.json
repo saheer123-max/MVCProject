@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "MVC\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC\\MVC\\Controllers\\UserController.cs",
               "RelativeToolTip": "MVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T05:53:29.741Z",
               "EditorCaption": ""
@@ -135,8 +135,7 @@
               "RelativeToolTip": "MVC\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-03T07:50:21.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T07:50:21.057Z"
             },
             {
               "$type": "Document",
